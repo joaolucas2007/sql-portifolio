@@ -31,4 +31,4 @@ Banco de dados relacional desenhado para simular o backend e a inteligência de 
 ## 🌐 Informações de Contato
 
 * **LinkedIn:** *Perfil em processo de atualização e organização técnica.*
-* **E-mail:** seuemail@exemplo.com
+* **E-mail:** joao.lfs2000p@gmail.com
